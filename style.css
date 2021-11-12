@@ -30,7 +30,6 @@
     font-size: 12px;
     border-radius: 5px;
 }
-
 .speaker{
     display: inline-flex;
 }
@@ -57,5 +56,4 @@
     position: absolute;
     left: 0;
     bottom: 0;
-
 }
