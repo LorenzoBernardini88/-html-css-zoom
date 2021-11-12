@@ -41,13 +41,17 @@
 .container-section{
     width: 90%;
     margin: 0 auto;
-    padding: 70px;
+    padding: 30px 0px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 .container-img{
     position: relative;
+    width: 14%;
+}
+.container-img img{
+    width: 100%;
 }
 .testo{
     color: #FFF;
