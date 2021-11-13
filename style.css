@@ -71,7 +71,10 @@
     padding: 10px 0px;
     display: flex;
     justify-content: space-between;
-    
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 .nav-left{
     width: 10%;
